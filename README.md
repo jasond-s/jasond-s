@@ -1,4 +1,4 @@
-## Hi, my name is Jason. I am an engineer.
+## 👻 Hi, my name is Jason. I am an engineer 
 
 I have been an analog electronics engineer, a front-end engineer, and a few other kinds of engineer in between. I started at the bottom of the OSI stack and now I can usually be found somewhere that has been popped off the top.
 
