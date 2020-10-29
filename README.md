@@ -6,4 +6,4 @@ I try to teach everything I learn through mentoring, blogging, or speaking at ev
 
 Say hi on twitter if you like @ [jasond_s](https://twitter.com/Jasond_s) 🦆
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jasond-s)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=jasond-s&count_private=true&show_icons=true&THEME=synthwave)](https://github.com/anuraghazra/github-readme-stats)
